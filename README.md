@@ -18,7 +18,7 @@ This project is a web application designed to detect deepfake content using a co
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/deepfake-detection.git
+    git clone https://[https://github.com/Nainaa04/HackIndia-Spark-5---Shark-Coders]
     cd deepfake-detection
     ```
 
